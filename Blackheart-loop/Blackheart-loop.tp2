@@ -1,0 +1,11 @@
+BACKUP ~weidu_external/Blackheart-loop/backup~
+AUTHOR ~~
+VERSION ~~
+
+BEGIN ~Fix Blackheart loop~
+DESIGNATED 13
+LABEL ~Blackheart-loop~
+
+
+
+COMPILE ~Blackheart-loop/WIILLASE.D~
